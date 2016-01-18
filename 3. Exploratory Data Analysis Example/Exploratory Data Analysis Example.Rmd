@@ -2,7 +2,7 @@
 title: "Exploratory Data Analysis Example"
 author: "Linda Wang"
 date: "January 17, 2016"
-output: html_document
+output: word_document
 ---
 
 See detailed information after the code about what these scripts do.  

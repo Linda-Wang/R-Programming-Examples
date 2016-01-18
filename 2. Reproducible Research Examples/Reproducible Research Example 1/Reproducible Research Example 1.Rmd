@@ -2,7 +2,7 @@
 title: "Reproducible Research Example 1"
 author: "Linda Wang"
 date: "January 17, 2016"
-output: html_document
+output: word_document
 ---
 
 ### Synopsis

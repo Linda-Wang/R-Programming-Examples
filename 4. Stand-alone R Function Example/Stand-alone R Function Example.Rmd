@@ -2,7 +2,7 @@
 title: "Stand-alone R Function Example"
 author: "Linda Wang"
 date: "January 17, 2016"
-output: html_document
+output: word_document
 ---
 
 See detailed information about what this script does after the code.
